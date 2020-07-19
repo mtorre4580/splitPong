@@ -1,10 +1,8 @@
 # splitPong
-Juego para android creado con emanuel suriano para un proyecto, se utilizó el framework libgdx (https://libgdx.badlogicgames.com/)
+SplitPong game developed with libGDX, it is based on the classic arkanoid but allows playing with 2 players via bluetooh
 
-se incluye solo las clases para guia
+Apk: com.splitpong.apk
 
 ---------
-Android Emanuel suriano created for a project, the framework libgdx (https://libgdx.badlogicgames.com/) was used
-
-It includes only classes to guide
+authors: Emanuel Suriano / Matias Torre
 
