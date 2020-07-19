@@ -1,5 +1,5 @@
 # splitPong
-SplitPong game developed with libGDX, it is based on the classic arkanoid but allows playing with 2 players via bluetooh
+Game developed with libGDX, it is based on the classic arkanoid but allows playing with 2 players via bluetooh
 
 Apk: com.splitpong.apk
 
